@@ -1,0 +1,476 @@
+[
+  {
+    "kanji": "土",
+    "onyomi": "ド・ト",
+    "kunyomi": "・つち",
+    "meaning": "soil; earth; ground; Turkey"
+  },
+  {
+    "kanji": "山",
+    "onyomi": "やま",
+    "kunyomi": "サン・セン・",
+    "meaning": "mountain"
+  },
+  {
+    "kanji": "先",
+    "onyomi": "さき・ま.ず",
+    "kunyomi": "セン・",
+    "meaning": "before; ahead; previous; future; precedence"
+  },
+  {
+    "kanji": "三",
+    "onyomi": "み・み.つ・みっ.つ",
+    "kunyomi": "サン・ゾウ・",
+    "meaning": "three"
+  },
+  {
+    "kanji": "四",
+    "onyomi": "よ・よ.つ・よっ.つ・よん",
+    "kunyomi": "シ・",
+    "meaning": "four"
+  },
+  {
+    "kanji": "来",
+    "onyomi": "く.る・きた.る・きた.す・き.たす・き.たる・き・こ",
+    "kunyomi": "ライ・タイ・",
+    "meaning": "come; due; next; cause; become"
+  },
+  {
+    "kanji": "語",
+    "onyomi": "かた.る・かた.らう",
+    "kunyomi": "ゴ・",
+    "meaning": "word; speech; language"
+  },
+  {
+    "kanji": "七",
+    "onyomi": "なな・なな.つ・なの",
+    "kunyomi": "シチ・",
+    "meaning": "seven"
+  },
+  {
+    "kanji": "日",
+    "onyomi": "ひ・~び・~か",
+    "kunyomi": "ニチ・ジツ・",
+    "meaning": "day; sun; Japan; counter for days"
+  },
+  {
+    "kanji": "火",
+    "onyomi": "ひ・~び・ほ~",
+    "kunyomi": "カ・",
+    "meaning": "fire"
+  },
+  {
+    "kanji": "下",
+    "onyomi": "した・しも・もと・さ.げる・さ.がる・くだ.る・くだ.り・くだ.す・~くだ.す・くだ.さる・お.ろす・お.りる",
+    "kunyomi": "カ・ゲ・",
+    "meaning": "below; down; descend; give; low; inferior"
+  },
+  {
+    "kanji": "話",
+    "onyomi": "はな.す・はなし",
+    "kunyomi": "ワ・",
+    "meaning": "tale; talk"
+  },
+  {
+    "kanji": "学",
+    "onyomi": "まな.ぶ",
+    "kunyomi": "ガク・",
+    "meaning": "study; learning; science"
+  },
+  {
+    "kanji": "八",
+    "onyomi": "や・や.つ・やっ.つ・よう",
+    "kunyomi": "ハチ・",
+    "meaning": "eight; eight radical (no. 12)"
+  },
+  {
+    "kanji": "長",
+    "onyomi": "なが.い・おさ",
+    "kunyomi": "チョウ・",
+    "meaning": "long; leader; superior; senior"
+  },
+  {
+    "kanji": "半",
+    "onyomi": "なか.ば",
+    "kunyomi": "ハン・",
+    "meaning": "half; middle; odd number; semi-; part-"
+  },
+  {
+    "kanji": "気",
+    "onyomi": "いき",
+    "kunyomi": "キ・ケ・",
+    "meaning": "spirit; mind; air; atmosphere; mood"
+  },
+  {
+    "kanji": "時",
+    "onyomi": "とき・~どき",
+    "kunyomi": "ジ・",
+    "meaning": "time; hour"
+  },
+  {
+    "kanji": "今",
+    "onyomi": "いま",
+    "kunyomi": "コン・キン・",
+    "meaning": "now"
+  },
+  {
+    "kanji": "後",
+    "onyomi": "のち・うし.ろ・うしろ・あと・おく.れる",
+    "kunyomi": "ゴ・コウ・",
+    "meaning": "behind; back; later"
+  },
+  {
+    "kanji": "天",
+    "onyomi": "あまつ・あめ・あま~",
+    "kunyomi": "テン・",
+    "meaning": "heavens; sky; imperial"
+  },
+  {
+    "kanji": "名",
+    "onyomi": "な・~な",
+    "kunyomi": "メイ・ミョウ・",
+    "meaning": "name; noted; distinguished; reputation"
+  },
+  {
+    "kanji": "校",
+    "onyomi": "コウ・キョウ",
+    "kunyomi": "",
+    "meaning": "exam; school; printing; proof; correction"
+  },
+  {
+    "kanji": "上",
+    "onyomi": "うえ・~うえ・うわ~・かみ・あ.げる・~あ.げる・あ.がる・~あ.がる・あ.がり・~あ.がり・のぼ.る・のぼ.り・のぼ.せる・のぼ.す・たてまつ.る",
+    "kunyomi": "ジョウ・ショウ・シャン・",
+    "meaning": "above; up"
+  },
+  {
+    "kanji": "前",
+    "onyomi": "まえ・~まえ",
+    "kunyomi": "ゼン・",
+    "meaning": "in front; before"
+  },
+  {
+    "kanji": "小",
+    "onyomi": "ちい.さい・こ~・お~・さ~",
+    "kunyomi": "ショウ・",
+    "meaning": "little; small"
+  },
+  {
+    "kanji": "読",
+    "onyomi": "よ.む・~よ.み",
+    "kunyomi": "ドク・トク・トウ・",
+    "meaning": "read"
+  },
+  {
+    "kanji": "五",
+    "onyomi": "いつ・いつ.つ",
+    "kunyomi": "ゴ・",
+    "meaning": "five"
+  },
+  {
+    "kanji": "川",
+    "onyomi": "かわ",
+    "kunyomi": "セン・",
+    "meaning": "stream; river; river or three-stroke river radical (no. 47)"
+  },
+  {
+    "kanji": "母",
+    "onyomi": "はは・も",
+    "kunyomi": "ボ・",
+    "meaning": "mother"
+  },
+  {
+    "kanji": "水",
+    "onyomi": "みず・みず~",
+    "kunyomi": "スイ・",
+    "meaning": "water"
+  },
+  {
+    "kanji": "金",
+    "onyomi": "かね・かな~・~がね",
+    "kunyomi": "キン・コン・ゴン・",
+    "meaning": "gold"
+  },
+  {
+    "kanji": "休",
+    "onyomi": "やす.む・やす.まる・やす.める",
+    "kunyomi": "キュウ・",
+    "meaning": "rest; day off; retire; sleep"
+  },
+  {
+    "kanji": "年",
+    "onyomi": "とし",
+    "kunyomi": "ネン・",
+    "meaning": "year; counter for years"
+  },
+  {
+    "kanji": "外",
+    "onyomi": "そと・ほか・はず.す・はず.れる・と~",
+    "kunyomi": "ガイ・ゲ・",
+    "meaning": "outside"
+  },
+  {
+    "kanji": "国",
+    "onyomi": "くに",
+    "kunyomi": "コク・",
+    "meaning": "country"
+  },
+  {
+    "kanji": "友",
+    "onyomi": "とも",
+    "kunyomi": "ユウ・",
+    "meaning": "friend"
+  },
+  {
+    "kanji": "出",
+    "onyomi": "で.る・~で・だ.す・~だ.す・い.でる・い.だす",
+    "kunyomi": "シュツ・スイ・",
+    "meaning": "exit; leave; go out; come out; put out; protrude"
+  },
+  {
+    "kanji": "毎",
+    "onyomi": "ごと・~ごと.に",
+    "kunyomi": "マイ・",
+    "meaning": "every"
+  },
+  {
+    "kanji": "車",
+    "onyomi": "くるま",
+    "kunyomi": "シャ・",
+    "meaning": "car"
+  },
+  {
+    "kanji": "午",
+    "onyomi": "うま",
+    "kunyomi": "ゴ・",
+    "meaning": "noon; sign of the horse; 11AM-1PM; seventh sign of Chinese zodiac"
+  },
+  {
+    "kanji": "聞",
+    "onyomi": "き.く・き.こえる",
+    "kunyomi": "ブン・モン・",
+    "meaning": "hear; ask; listen"
+  },
+  {
+    "kanji": "月",
+    "onyomi": "つき",
+    "kunyomi": "ゲツ・ガツ・",
+    "meaning": "month; moon"
+  },
+  {
+    "kanji": "書",
+    "onyomi": "か.く・~が.き・~がき",
+    "kunyomi": "ショ・",
+    "meaning": "write"
+  },
+  {
+    "kanji": "父",
+    "onyomi": "ちち",
+    "kunyomi": "フ・",
+    "meaning": "father"
+  },
+  {
+    "kanji": "西",
+    "onyomi": "にし",
+    "kunyomi": "セイ・サイ・ス・",
+    "meaning": "west; Spain"
+  },
+  {
+    "kanji": "高",
+    "onyomi": "たか.い・たか・~だか・たか.まる・たか.める",
+    "kunyomi": "コウ・",
+    "meaning": "tall; high; expensive"
+  },
+  {
+    "kanji": "本",
+    "onyomi": "もと",
+    "kunyomi": "ホン・",
+    "meaning": "book; present; main; origin; true; real; counter for long cylindrical things"
+  },
+  {
+    "kanji": "二",
+    "onyomi": "ふた・ふた.つ・ふたたび",
+    "kunyomi": "ニ・ジ・",
+    "meaning": "two; two radical (no. 7)"
+  },
+  {
+    "kanji": "何",
+    "onyomi": "なに・なん・なに~・なん~",
+    "kunyomi": "カ・",
+    "meaning": "what"
+  },
+  {
+    "kanji": "人",
+    "onyomi": "ひと・~り・~と",
+    "kunyomi": "ジン・ニン・",
+    "meaning": "person"
+  },
+  {
+    "kanji": "大",
+    "onyomi": "おお~・おお.きい・~おお.いに",
+    "kunyomi": "ダイ・タイ・",
+    "meaning": "large; big"
+  },
+  {
+    "kanji": "雨",
+    "onyomi": "あめ・あま~・~さめ",
+    "kunyomi": "ウ・",
+    "meaning": "rain"
+  },
+  {
+    "kanji": "男",
+    "onyomi": "おとこ・お",
+    "kunyomi": "ダン・ナン・",
+    "meaning": "male"
+  },
+  {
+    "kanji": "行",
+    "onyomi": "い.く・ゆ.く・~ゆ.き・~ゆき・~い.き・~いき・おこな.う・おこ.なう",
+    "kunyomi": "コウ・ギョウ・アン・",
+    "meaning": "going; journey; carry out; conduct; act; line; row; bank"
+  },
+  {
+    "kanji": "間",
+    "onyomi": "あいだ・ま・あい",
+    "kunyomi": "カン・ケン・",
+    "meaning": "interval; space"
+  },
+  {
+    "kanji": "六",
+    "onyomi": "む・む.つ・むっ.つ・むい",
+    "kunyomi": "ロク・リク・",
+    "meaning": "six"
+  },
+  {
+    "kanji": "千",
+    "onyomi": "ち",
+    "kunyomi": "セン・",
+    "meaning": "thousand"
+  },
+  {
+    "kanji": "中",
+    "onyomi": "なか・うち・あた.る",
+    "kunyomi": "チュウ・",
+    "meaning": "in; inside; middle; mean; center"
+  },
+  {
+    "kanji": "生",
+    "onyomi": "い.きる・い.かす・い.ける・う.まれる・うま.れる・う.まれ・うまれ・う.む・お.う・は.える・は.やす・き・なま・なま~・な.る・な.す・む.す・~う",
+    "kunyomi": "セイ・ショウ・",
+    "meaning": "life; genuine; birth"
+  },
+  {
+    "kanji": "百",
+    "onyomi": "もも",
+    "kunyomi": "ヒャク・ビャク・",
+    "meaning": "hundred"
+  },
+  {
+    "kanji": "円",
+    "onyomi": "まる.い・まる・まど・まど.か・まろ.やか",
+    "kunyomi": "エン・",
+    "meaning": "circle; yen; round"
+  },
+  {
+    "kanji": "北",
+    "onyomi": "きた",
+    "kunyomi": "ホク・",
+    "meaning": "north"
+  },
+  {
+    "kanji": "十",
+    "onyomi": "とお・と",
+    "kunyomi": "ジュウ・ジッ・ジュッ・",
+    "meaning": "ten"
+  },
+  {
+    "kanji": "子",
+    "onyomi": "こ・~こ・ね",
+    "kunyomi": "シ・ス・ツ・",
+    "meaning": "child; sign of the rat; 11PM-1AM; first sign of Chinese zodiac"
+  },
+  {
+    "kanji": "見",
+    "onyomi": "み.る・み.える・み.せる",
+    "kunyomi": "ケン・",
+    "meaning": "see; hopes; chances; idea; opinion; look at; visible"
+  },
+  {
+    "kanji": "電",
+    "onyomi": "",
+    "kunyomi": "デン",
+    "meaning": "electricity"
+  },
+  {
+    "kanji": "右",
+    "onyomi": "みぎ",
+    "kunyomi": "ウ・ユウ・",
+    "meaning": "right"
+  },
+  {
+    "kanji": "女",
+    "onyomi": "おんな・め",
+    "kunyomi": "ジョ・ニョ・ニョウ・",
+    "meaning": "woman; female"
+  },
+  {
+    "kanji": "一",
+    "onyomi": "ひと~・ひと.つ",
+    "kunyomi": "イチ・イツ・",
+    "meaning": "one; one radical (no.1)"
+  },
+  {
+    "kanji": "左",
+    "onyomi": "ひだり",
+    "kunyomi": "サ・シャ・",
+    "meaning": "left"
+  },
+  {
+    "kanji": "東",
+    "onyomi": "ひがし",
+    "kunyomi": "トウ・",
+    "meaning": "east"
+  },
+  {
+    "kanji": "万",
+    "onyomi": "バン・よろず",
+    "kunyomi": "マン・",
+    "meaning": "ten thousand; 10,000"
+  },
+  {
+    "kanji": "南",
+    "onyomi": "みなみ",
+    "kunyomi": "ナン・ナ・",
+    "meaning": "south"
+  },
+  {
+    "kanji": "木",
+    "onyomi": "き・こ~",
+    "kunyomi": "ボク・モク・",
+    "meaning": "tree; wood"
+  },
+  {
+    "kanji": "九",
+    "onyomi": "ここの・ここの.つ",
+    "kunyomi": "キュウ・ク・",
+    "meaning": "nine"
+  },
+  {
+    "kanji": "食",
+    "onyomi": "く.う・く.らう・た.べる・は.む",
+    "kunyomi": "ショク・ジキ・",
+    "meaning": "eat; food"
+  },
+  {
+    "kanji": "入",
+    "onyomi": "い.る・~い.る・~い.り・い.れる・~い.れ・はい.る",
+    "kunyomi": "ニュウ・ジュ・",
+    "meaning": "enter; insert"
+  },
+  {
+    "kanji": "白",
+    "onyomi": "しろ・しら~・しろ.い",
+    "kunyomi": "ハク・ビャク・",
+    "meaning": "white"
+  }
+]

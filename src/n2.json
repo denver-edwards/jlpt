@@ -1,0 +1,2496 @@
+[
+  {
+    "kanji": "政",
+    "onyomi": "セイ ショウ",
+    "kunyomi": "まつりごと",
+    "meaning": "Politics, Government"
+  },
+  {
+    "kanji": "党",
+    "onyomi": "トウ",
+    "kunyomi": "",
+    "meaning": "Political party, Faction, Clique"
+  },
+  {
+    "kanji": "経",
+    "onyomi": "ケイ キョウ",
+    "kunyomi": "へ・る",
+    "meaning": "Pass thru, Manage, Longitude, Expire, Warp"
+  },
+  {
+    "kanji": "現",
+    "onyomi": "ゲン",
+    "kunyomi": "あらわ・れる あらわ・す",
+    "meaning": "Appear, Existing, Actual"
+  },
+  {
+    "kanji": "性",
+    "onyomi": "セイ ショウ",
+    "kunyomi": "",
+    "meaning": "Gender, Nature"
+  },
+  {
+    "kanji": "制",
+    "onyomi": "セイ",
+    "kunyomi": "",
+    "meaning": "Law, System, Rule"
+  },
+  {
+    "kanji": "務",
+    "onyomi": "ム",
+    "kunyomi": "つと・める つと・まる",
+    "meaning": "Duty, Task"
+  },
+  {
+    "kanji": "総",
+    "onyomi": "ソウ",
+    "kunyomi": "",
+    "meaning": "General, Whole, All, Full, Total"
+  },
+  {
+    "kanji": "領",
+    "onyomi": "リョウ",
+    "kunyomi": "",
+    "meaning": "Territory, Jurisdiction, Dominion, Reign"
+  },
+  {
+    "kanji": "設",
+    "onyomi": "セツ",
+    "kunyomi": "もう・ける",
+    "meaning": "Establish, Provision, Prepare"
+  },
+  {
+    "kanji": "保",
+    "onyomi": "ホ",
+    "kunyomi": "たも・つ",
+    "meaning": "keep, protect, guarantee, preserve, sustain, support"
+  },
+  {
+    "kanji": "権",
+    "onyomi": "ケン",
+    "kunyomi": "",
+    "meaning": "rights, authority, power"
+  },
+  {
+    "kanji": "支",
+    "onyomi": "シ",
+    "kunyomi": "ささ・える",
+    "meaning": "support, sustain, branch"
+  },
+  {
+    "kanji": "報",
+    "onyomi": "ホウ",
+    "kunyomi": "むく・いる",
+    "meaning": "report, news, reward, retribution,"
+  },
+  {
+    "kanji": "済",
+    "onyomi": "サイ",
+    "kunyomi": "す・む す・ます ず・み",
+    "meaning": "settle, finish"
+  },
+  {
+    "kanji": "解",
+    "onyomi": "カイ ゲ",
+    "kunyomi": "と・く と・ける と・かす",
+    "meaning": "untie, notes, key, explanation, undo, sole, cancel"
+  },
+  {
+    "kanji": "資",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "meaning": "resources, capital, fund, data"
+  },
+  {
+    "kanji": "際",
+    "onyomi": "サイ",
+    "kunyomi": "さい・する",
+    "meaning": "occasion, side, edge, verge, dangerous, adventurous, incedent, time, when"
+  },
+  {
+    "kanji": "査",
+    "onyomi": "サ",
+    "kunyomi": "",
+    "meaning": "investigate"
+  },
+  {
+    "kanji": "判",
+    "onyomi": "ハン バン",
+    "kunyomi": "",
+    "meaning": "judge, signature, stamp, seal"
+  },
+  {
+    "kanji": "認",
+    "onyomi": "ニン",
+    "kunyomi": "みと・める",
+    "meaning": "recognize, acknowledge, witness, discern, appreciate, believe"
+  },
+  {
+    "kanji": "在",
+    "onyomi": "ザイ",
+    "kunyomi": "あ・る",
+    "meaning": "exist, outskirts, suburbs, located in"
+  },
+  {
+    "kanji": "件",
+    "onyomi": "ケン",
+    "kunyomi": "",
+    "meaning": "affair, case, matter, item"
+  },
+  {
+    "kanji": "団",
+    "onyomi": "ダン トン",
+    "kunyomi": "",
+    "meaning": "group, association"
+  },
+  {
+    "kanji": "任",
+    "onyomi": "ニン",
+    "kunyomi": "まか・せる まか・す",
+    "meaning": "responsibility, duty, term, entrust to, appoint"
+  },
+  {
+    "kanji": "論",
+    "onyomi": "ロン",
+    "kunyomi": "",
+    "meaning": "theory, argument, discourse"
+  },
+  {
+    "kanji": "増",
+    "onyomi": "ゾウ",
+    "kunyomi": "ふえ・る ふや・す",
+    "meaning": "increase, add, argument, gain, promote"
+  },
+  {
+    "kanji": "情",
+    "onyomi": "セイ ジョウ",
+    "kunyomi": "なさ・け",
+    "meaning": "feelings, emotion, passion, symphaty, circumstances, fact"
+  },
+  {
+    "kanji": "示",
+    "onyomi": "シ ジ",
+    "kunyomi": "しめ・す",
+    "meaning": "indicate, show, point out, express, display"
+  },
+  {
+    "kanji": "基",
+    "onyomi": "キ",
+    "kunyomi": "もと もとい",
+    "meaning": "foundation, fundamentals, counter for machines",
+    "": "b"
+  },
+  {
+    "kanji": "革",
+    "onyomi": "カク",
+    "kunyomi": "かわ",
+    "meaning": "leather, skin, reform, become, serious"
+  },
+  {
+    "kanji": "価",
+    "onyomi": "カ",
+    "kunyomi": "あたい",
+    "meaning": "price, value"
+  },
+  {
+    "kanji": "確",
+    "onyomi": "カク",
+    "kunyomi": "たし・か たし・かめる",
+    "meaning": "certain, firm, tight, hard, solid, confirm, clear, evident"
+  },
+  {
+    "kanji": "勢",
+    "onyomi": "セイ",
+    "kunyomi": "いきお・い",
+    "meaning": "power, forces, energy, military, strength"
+  },
+  {
+    "kanji": "減",
+    "onyomi": "ゲン",
+    "kunyomi": "へ・る へ・らす",
+    "meaning": "reduce, decrease, decline, curtail, get hungry"
+  },
+  {
+    "kanji": "容",
+    "onyomi": "ヨウ",
+    "kunyomi": "",
+    "meaning": "contain, form, looks"
+  },
+  {
+    "kanji": "応",
+    "onyomi": "オウ",
+    "kunyomi": "こた・える",
+    "meaning": "respond, apply, answer, accept"
+  },
+  {
+    "kanji": "演",
+    "onyomi": "エン",
+    "kunyomi": "",
+    "meaning": "perform, act, play, render, stage"
+  },
+  {
+    "kanji": "歳",
+    "onyomi": "サイ セイ",
+    "kunyomi": "",
+    "meaning": "years old, age, accasion, opportunity"
+  },
+  {
+    "kanji": "能",
+    "onyomi": "ノウ",
+    "kunyomi": "",
+    "meaning": "ability, talent, skill, capacity"
+  },
+  {
+    "kanji": "再",
+    "onyomi": "サイ サ",
+    "kunyomi": "ふたた・び",
+    "meaning": "again, twice, second time"
+  },
+  {
+    "kanji": "格",
+    "onyomi": "カク コウ",
+    "kunyomi": "",
+    "meaning": "status, rank, capacity, character"
+  },
+  {
+    "kanji": "疑",
+    "onyomi": "ギ",
+    "kunyomi": "うたが・う",
+    "meaning": "doubt, distrust, be suspicious, question"
+  },
+  {
+    "kanji": "過",
+    "onyomi": "カ",
+    "kunyomi": "す・ぎる す・ごす",
+    "meaning": "go beyond, overdo, exceed, error"
+  },
+  {
+    "kanji": "税",
+    "onyomi": "ゼイ",
+    "kunyomi": "",
+    "meaning": "tax, duty"
+  },
+  {
+    "kanji": "検",
+    "onyomi": "ケン",
+    "kunyomi": "",
+    "meaning": "examine, investigate"
+  },
+  {
+    "kanji": "常",
+    "onyomi": "ジョウ",
+    "kunyomi": "つね とこ",
+    "meaning": "normal, usual, ordinary, regular,"
+  },
+  {
+    "kanji": "状",
+    "onyomi": "ジョウ",
+    "kunyomi": "",
+    "meaning": "form, status quo, conditions, circumstances, appearance"
+  },
+  {
+    "kanji": "営",
+    "onyomi": "エイ",
+    "kunyomi": "いとな・む",
+    "meaning": "manage, occupation, camp, perform, build"
+  },
+  {
+    "kanji": "職",
+    "onyomi": "ショク",
+    "kunyomi": "",
+    "meaning": "employment, work"
+  },
+  {
+    "kanji": "与",
+    "onyomi": "ヨ",
+    "kunyomi": "あた・える",
+    "meaning": "bestow, participate, give, award, impart, provide, cause, gift, godsend"
+  },
+  {
+    "kanji": "供",
+    "onyomi": "キョウ ク",
+    "kunyomi": "そな・える とも",
+    "meaning": "offer, sumbit, present, accompany"
+  },
+  {
+    "kanji": "可",
+    "onyomi": "カ",
+    "kunyomi": "",
+    "meaning": "possible, passable"
+  },
+  {
+    "kanji": "構",
+    "onyomi": "コウ",
+    "kunyomi": "かま・える かま・う",
+    "meaning": "construct, posture, build, pretend"
+  },
+  {
+    "kanji": "割",
+    "onyomi": "カツ",
+    "kunyomi": "わ・る わり わ・れる さ・く",
+    "meaning": "divide, proportion, comparatively, cut, separate, split"
+  },
+  {
+    "kanji": "比",
+    "onyomi": "ヒ",
+    "kunyomi": "くら・べる",
+    "meaning": "compare, race, ratio, philippines"
+  },
+  {
+    "kanji": "難",
+    "onyomi": "ナン",
+    "kunyomi": "かた・い むずか・しい",
+    "meaning": "difficult, impossible, trouble, accident, defect"
+  },
+  {
+    "kanji": "防",
+    "onyomi": "ボウ",
+    "kunyomi": "ふせ・ぐ",
+    "meaning": "prevent, defend, protect, resist"
+  },
+  {
+    "kanji": "補",
+    "onyomi": "ホ",
+    "kunyomi": "おぎな・う",
+    "meaning": "supplement, supply, make good, offset, compensate, assistant, learner"
+  },
+  {
+    "kanji": "優",
+    "onyomi": "ユウ",
+    "kunyomi": "やさ・しい すぐ・れる",
+    "meaning": "superior, tenderness, excel, surpass, actor, gentleness"
+  },
+  {
+    "kanji": "収",
+    "onyomi": "シュウ",
+    "kunyomi": "おさ・める おさ・まる",
+    "meaning": "take in, income, obtain, pay, supply, store"
+  },
+  {
+    "kanji": "断",
+    "onyomi": "ダン",
+    "kunyomi": "ことわ・る",
+    "meaning": "cut off, decline, refuse, apologize, warn, dismiss, prohibit, decision, judgement"
+  },
+  {
+    "kanji": "違",
+    "onyomi": "イ",
+    "kunyomi": "ちが・う ちが・える",
+    "meaning": "difference, differ"
+  },
+  {
+    "kanji": "境",
+    "onyomi": "キョウ ケイ",
+    "kunyomi": "さかい",
+    "meaning": "boundary, border, region"
+  },
+  {
+    "kanji": "規",
+    "onyomi": "キ",
+    "kunyomi": "",
+    "meaning": "regulations, rule, standard, measure"
+  },
+  {
+    "kanji": "術",
+    "onyomi": "ジュツ",
+    "kunyomi": "",
+    "meaning": "technique, art, skill, means, trick, resources, magic"
+  },
+  {
+    "kanji": "展",
+    "onyomi": "テン",
+    "kunyomi": "",
+    "meaning": "exhibit"
+  },
+  {
+    "kanji": "導",
+    "onyomi": "ドウ",
+    "kunyomi": "みちび・く",
+    "meaning": "guide, leading, conduct, usher"
+  },
+  {
+    "kanji": "備",
+    "onyomi": "ビ",
+    "kunyomi": "そな・える そな・わる",
+    "meaning": "provide, equip, preparation"
+  },
+  {
+    "kanji": "宅",
+    "onyomi": "タク",
+    "kunyomi": "",
+    "meaning": "home, house, residence"
+  },
+  {
+    "kanji": "張",
+    "onyomi": "チョウ",
+    "kunyomi": "は・る",
+    "meaning": "lengthen, stretch, counter for stringed instruments"
+  },
+  {
+    "kanji": "域",
+    "onyomi": "イキ",
+    "kunyomi": "",
+    "meaning": "region, range, limits, stage, level"
+  },
+  {
+    "kanji": "武",
+    "onyomi": "ブ ム",
+    "kunyomi": "",
+    "meaning": "military, warrior"
+  },
+  {
+    "kanji": "率",
+    "onyomi": "ソツ リツ",
+    "kunyomi": "ひき・いる",
+    "meaning": "rate, ratio, proportion, factor"
+  },
+  {
+    "kanji": "述",
+    "onyomi": "ジュツ",
+    "kunyomi": "のべ・る",
+    "meaning": "mention, state, speak, relate"
+  },
+  {
+    "kanji": "訪",
+    "onyomi": "ホウ",
+    "kunyomi": "おとず・れる たず・ねる",
+    "meaning": "visit, call on, look up, offer, symphaty"
+  },
+  {
+    "kanji": "輸",
+    "onyomi": "ユ",
+    "kunyomi": "",
+    "meaning": "transport, send, be inferior"
+  },
+  {
+    "kanji": "警",
+    "onyomi": "ケイ",
+    "kunyomi": "",
+    "meaning": "guard against, admonish, commandment"
+  },
+  {
+    "kanji": "独",
+    "onyomi": "ドク",
+    "kunyomi": "ひと・り",
+    "meaning": "alone, single, spontaneously, germany"
+  },
+  {
+    "kanji": "条",
+    "onyomi": "ジョウ",
+    "kunyomi": "",
+    "meaning": "clause, article, item, stripe, streak"
+  },
+  {
+    "kanji": "限",
+    "onyomi": "ゲン",
+    "kunyomi": "かぎ・る",
+    "meaning": "limit, restrict, to the best of ability"
+  },
+  {
+    "kanji": "額",
+    "onyomi": "ガク",
+    "kunyomi": "ひたい",
+    "meaning": "amount, forehead, tablet, plaque, framed picture, sum, volume"
+  },
+  {
+    "kanji": "環",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "meaning": "ring, circle, link, wheel"
+  },
+  {
+    "kanji": "欧",
+    "onyomi": "オウ",
+    "kunyomi": "",
+    "meaning": "europe"
+  },
+  {
+    "kanji": "担",
+    "onyomi": "タン",
+    "kunyomi": "かつ・ぐ にな・う",
+    "meaning": "shouldering, carry, raise, bear"
+  },
+  {
+    "kanji": "退",
+    "onyomi": "タイ",
+    "kunyomi": "しりぞ・く しりぞ・ける",
+    "meaning": "retreat, withdraw, retire, resign, repel, expel, reject"
+  },
+  {
+    "kanji": "準",
+    "onyomi": "ジュン",
+    "kunyomi": "",
+    "meaning": "semi-, correspond to, proportionate to, conform, imitate"
+  },
+  {
+    "kanji": "造",
+    "onyomi": "ゾウ",
+    "kunyomi": "つく・る",
+    "meaning": "create, make, structure, physique"
+  },
+  {
+    "kanji": "被",
+    "onyomi": "ヒ",
+    "kunyomi": "こうむ・る",
+    "meaning": "put on, incur, cover, veil, shelter, wear, be exposed(film), receiving"
+  },
+  {
+    "kanji": "技",
+    "onyomi": "ギ",
+    "kunyomi": "わざ",
+    "meaning": "skill, art, craft, ability, feat, performance, vocation,"
+  },
+  {
+    "kanji": "復",
+    "onyomi": "フク",
+    "kunyomi": "",
+    "meaning": "restore, return to, revert, resume"
+  },
+  {
+    "kanji": "渡",
+    "onyomi": "ト",
+    "kunyomi": "わた・る わた・す",
+    "meaning": "cross over, transit, ferry, import, deliver, migrate"
+  },
+  {
+    "kanji": "移",
+    "onyomi": "イ",
+    "kunyomi": "うつ・る うつ・す",
+    "meaning": "shift, move, change, drift, catch, pass into"
+  },
+  {
+    "kanji": "個",
+    "onyomi": "コ",
+    "kunyomi": "",
+    "meaning": "individual, counter for articles"
+  },
+  {
+    "kanji": "評",
+    "onyomi": "ヒョウ",
+    "kunyomi": "",
+    "meaning": "evaluate, criticism, comment"
+  },
+  {
+    "kanji": "若",
+    "onyomi": "ジャク ニャク",
+    "kunyomi": "わか・い も・しくは",
+    "meaning": "young, perhaps, possibly, low number, immature"
+  },
+  {
+    "kanji": "脳",
+    "onyomi": "ノウ",
+    "kunyomi": "",
+    "meaning": "brain, memory"
+  },
+  {
+    "kanji": "含",
+    "onyomi": "ガン",
+    "kunyomi": "ふく・む ふく・める",
+    "meaning": "include, contain, hold in the mouth, bear in mind, understand, cherish"
+  },
+  {
+    "kanji": "蔵",
+    "onyomi": "ゾウ",
+    "kunyomi": "くら",
+    "meaning": "storehouse, hide, own, have, possess"
+  },
+  {
+    "kanji": "非",
+    "onyomi": "ヒ",
+    "kunyomi": "",
+    "meaning": "negative, mistake, injustice, un-, non-"
+  },
+  {
+    "kanji": "段",
+    "onyomi": "ダン",
+    "kunyomi": "",
+    "meaning": "steps, grade, stairs"
+  },
+  {
+    "kanji": "製",
+    "onyomi": "セイ",
+    "kunyomi": "",
+    "meaning": "manufacture, madein"
+  },
+  {
+    "kanji": "況",
+    "onyomi": "キョウ",
+    "kunyomi": "",
+    "meaning": "condition,situation"
+  },
+  {
+    "kanji": "財",
+    "onyomi": "ザイ サイ",
+    "kunyomi": "",
+    "meaning": "wealth, property, money, assets"
+  },
+  {
+    "kanji": "識",
+    "onyomi": "シキ",
+    "kunyomi": "",
+    "meaning": "discriminating, know, write"
+  },
+  {
+    "kanji": "呼",
+    "onyomi": "コ",
+    "kunyomi": "よ・ぶ",
+    "meaning": "call, call out to, invite"
+  },
+  {
+    "kanji": "針",
+    "onyomi": "シン",
+    "kunyomi": "はり",
+    "meaning": "needle, pin, staple, stringer"
+  },
+  {
+    "kanji": "専",
+    "onyomi": "セン",
+    "kunyomi": "もっぱ・ら",
+    "meaning": "specialty, exclusive, mainly, solely"
+  },
+  {
+    "kanji": "程",
+    "onyomi": "テイ",
+    "kunyomi": "ほど",
+    "meaning": "extent, degree, law, formula, distance, limits, amount"
+  },
+  {
+    "kanji": "値",
+    "onyomi": "チ",
+    "kunyomi": "ね あたい",
+    "meaning": "value, price, cost"
+  },
+  {
+    "kanji": "突",
+    "onyomi": "トツ",
+    "kunyomi": "つ・く",
+    "meaning": "thrust, stab, protruding, pierce, prick, collision, sudden"
+  },
+  {
+    "kanji": "接",
+    "onyomi": "セツ",
+    "kunyomi": "つ・ぐ",
+    "meaning": "contact, touch, adjoin, piece, together"
+  },
+  {
+    "kanji": "授",
+    "onyomi": "ジュ",
+    "kunyomi": "さず・ける さず・かる",
+    "meaning": "instruct, impart, grant, confer"
+  },
+  {
+    "kanji": "効",
+    "onyomi": "コウ",
+    "kunyomi": "き・く",
+    "meaning": "effect, merit, efficiency, benefit"
+  },
+  {
+    "kanji": "湾",
+    "onyomi": "ワン",
+    "kunyomi": "",
+    "meaning": "gulf, bay, inlet"
+  },
+  {
+    "kanji": "処",
+    "onyomi": "ショ",
+    "kunyomi": "",
+    "meaning": "dispose, manage, deal with, sentence, condemn, act, behave, place"
+  },
+  {
+    "kanji": "旧",
+    "onyomi": "キュウ",
+    "kunyomi": "",
+    "meaning": "old times, old things, old friend, former, ex-"
+  },
+  {
+    "kanji": "否",
+    "onyomi": "ヒ",
+    "kunyomi": "いな",
+    "meaning": "negate, no, noes, refuse, decline, deny"
+  },
+  {
+    "kanji": "師",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "meaning": "expert, teacher, master, model, army,war"
+  },
+  {
+    "kanji": "批",
+    "onyomi": "ヒ",
+    "kunyomi": "",
+    "meaning": "criticism, strike"
+  },
+  {
+    "kanji": "易",
+    "onyomi": "エキ イ",
+    "kunyomi": "やさ・しい",
+    "meaning": "easy, ready to, simple, forture telling, divination"
+  },
+  {
+    "kanji": "存",
+    "onyomi": "ソン ゾン",
+    "kunyomi": "",
+    "meaning": "suppose, exist, be aware of, believe, feel"
+  },
+  {
+    "kanji": "券",
+    "onyomi": "ケン",
+    "kunyomi": "",
+    "meaning": "ticket"
+  },
+  {
+    "kanji": "座",
+    "onyomi": "ザ",
+    "kunyomi": "すわ・る",
+    "meaning": "sit, squat, seat, cussion, gathering"
+  },
+  {
+    "kanji": "破",
+    "onyomi": "ハ",
+    "kunyomi": "やぶ・る やぶ・れる",
+    "meaning": "tear, rip, destroy, defeat, frustrate"
+  },
+  {
+    "kanji": "編",
+    "onyomi": "ヘン",
+    "kunyomi": "あ・む",
+    "meaning": "compile, knit, plait, braid, twist, editing, completed poem, part of a book"
+  },
+  {
+    "kanji": "捜",
+    "onyomi": "ソウ",
+    "kunyomi": "さが・す",
+    "meaning": "look for, search, locate"
+  },
+  {
+    "kanji": "除",
+    "onyomi": "ジョ ジ",
+    "kunyomi": "のぞ・く",
+    "meaning": "exclude, division, remove, abolish, cancel, except"
+  },
+  {
+    "kanji": "降",
+    "onyomi": "コウ",
+    "kunyomi": "お・りる お・ろす ふ・る",
+    "meaning": "descend, precipitate, fall, surrender"
+  },
+  {
+    "kanji": "超",
+    "onyomi": "チョウ",
+    "kunyomi": "こ・える こ・す",
+    "meaning": "transcend, super-, ultra-"
+  },
+  {
+    "kanji": "責",
+    "onyomi": "セキ",
+    "kunyomi": "せ・める",
+    "meaning": "blame, condemn, censure"
+  },
+  {
+    "kanji": "並",
+    "onyomi": "ヘイ",
+    "kunyomi": "な・み なら・べる なら・ぶ なら・びに",
+    "meaning": "lineup, row, and, besides, as, rank with, rival, equal"
+  },
+  {
+    "kanji": "療",
+    "onyomi": "リョウ",
+    "kunyomi": "",
+    "meaning": "heal, cure"
+  },
+  {
+    "kanji": "修",
+    "onyomi": "シュウ シュ",
+    "kunyomi": "おさ・める おさ・まる",
+    "meaning": "discipline, conduct onesel well, study, master"
+  },
+  {
+    "kanji": "捕",
+    "onyomi": "ホ",
+    "kunyomi": "と・らえる と・らわれる と・る つか・まえる つか・まる",
+    "meaning": "catch, capture"
+  },
+  {
+    "kanji": "危",
+    "onyomi": "キ",
+    "kunyomi": "あぶ。ない あや・うい あや・ぶむ",
+    "meaning": "dangerous, fear, uneasy"
+  },
+  {
+    "kanji": "採",
+    "onyomi": "サイ",
+    "kunyomi": "と・る",
+    "meaning": "pick, take, fetch, take up"
+  },
+  {
+    "kanji": "拡",
+    "onyomi": "カク",
+    "kunyomi": "",
+    "meaning": "broaden, extend, expand, enlarge"
+  },
+  {
+    "kanji": "故",
+    "onyomi": "コ",
+    "kunyomi": "ゆえ",
+    "meaning": "cirumstances, specially, intentionally, reason, cause, the late, therefore, consequently"
+  },
+  {
+    "kanji": "介",
+    "onyomi": "カイ",
+    "kunyomi": "",
+    "meaning": "mediate, shellfish, concern, oneself with"
+  },
+  {
+    "kanji": "迎",
+    "onyomi": "ゲイ",
+    "kunyomi": "むか・える",
+    "meaning": "welcome, meet, greet"
+  },
+  {
+    "kanji": "販",
+    "onyomi": "ハン",
+    "kunyomi": "",
+    "meaning": "marketing, sale, trade"
+  },
+  {
+    "kanji": "異",
+    "onyomi": "イ",
+    "kunyomi": "こと",
+    "meaning": "uncommon, different, queerness, strangeness, wonderful, curious, unusual"
+  },
+  {
+    "kanji": "将",
+    "onyomi": "ショウ",
+    "kunyomi": "",
+    "meaning": "leader, commander, general, admiral, or, and again, soon, from now on, just about"
+  },
+  {
+    "kanji": "因",
+    "onyomi": "イン",
+    "kunyomi": "よ・る",
+    "meaning": "cause, factor, be associated with, depend on, be limited to"
+  },
+  {
+    "kanji": "幅",
+    "onyomi": "フク",
+    "kunyomi": "はば",
+    "meaning": "width, hanging scroll"
+  },
+  {
+    "kanji": "富",
+    "onyomi": "フ",
+    "kunyomi": "と・む とみ",
+    "meaning": "rich, wealth, enrich, abundant"
+  },
+  {
+    "kanji": "彼",
+    "onyomi": "ヒ",
+    "kunyomi": "かれ かの",
+    "meaning": "he, that, the"
+  },
+  {
+    "kanji": "般",
+    "onyomi": "ハン",
+    "kunyomi": "",
+    "meaning": "carrier, carry, all, general, sort, kind"
+  },
+  {
+    "kanji": "貿",
+    "onyomi": "ボウ",
+    "kunyomi": "",
+    "meaning": "trade, exchange"
+  },
+  {
+    "kanji": "講",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "meaning": "lecture, club, association"
+  },
+  {
+    "kanji": "舞",
+    "onyomi": "ブ",
+    "kunyomi": "ま・う まい",
+    "meaning": "dance, flit, circle, wheel"
+  },
+  {
+    "kanji": "装",
+    "onyomi": "ソウ ショウ",
+    "kunyomi": "よそお・う",
+    "meaning": "attire, dress, pretend, disguise, profess"
+  },
+  {
+    "kanji": "諸",
+    "onyomi": "ショ",
+    "kunyomi": "",
+    "meaning": "various, many, several, together"
+  },
+  {
+    "kanji": "亡",
+    "onyomi": "ボウ モウ",
+    "kunyomi": "な・い",
+    "meaning": "deceased, the late, dying, perish"
+  },
+  {
+    "kanji": "劇",
+    "onyomi": "ゲキ",
+    "kunyomi": "",
+    "meaning": "drama, play"
+  },
+  {
+    "kanji": "河",
+    "onyomi": "カ",
+    "kunyomi": "かわ",
+    "meaning": "river (big)"
+  },
+  {
+    "kanji": "適",
+    "onyomi": "テキ",
+    "kunyomi": "",
+    "meaning": "suitable, occasional, rare, qualified, capable"
+  },
+  {
+    "kanji": "婦",
+    "onyomi": "フ",
+    "kunyomi": "",
+    "meaning": "lady, woman, wife, bride"
+  },
+  {
+    "kanji": "寄",
+    "onyomi": "キ",
+    "kunyomi": "よ・る よ・せる",
+    "meaning": "approach, stop in, bring near, gather, collect, send, forward"
+  },
+  {
+    "kanji": "込",
+    "onyomi": "",
+    "kunyomi": "こ・む こ・める",
+    "meaning": "crowded, mixture, in bulk, included"
+  },
+  {
+    "kanji": "余",
+    "onyomi": "ヨ",
+    "kunyomi": "あま・る あま・す",
+    "meaning": "too much, my self, surplus"
+  },
+  {
+    "kanji": "禁",
+    "onyomi": "キン",
+    "kunyomi": "",
+    "meaning": "prohibition, ban, forbid"
+  },
+  {
+    "kanji": "逆",
+    "onyomi": "ギャク",
+    "kunyomi": "さか さか・らう",
+    "meaning": "inverted, reverse, opposite, wicked"
+  },
+  {
+    "kanji": "換",
+    "onyomi": "カン",
+    "kunyomi": "か・える か・わる",
+    "meaning": "interchange, period, change, convert, replace, renew"
+  },
+  {
+    "kanji": "久",
+    "onyomi": "キュウ ク",
+    "kunyomi": "ひさ・しい",
+    "meaning": "long time, old story"
+  },
+  {
+    "kanji": "妻",
+    "onyomi": "サイ",
+    "kunyomi": "つま",
+    "meaning": "wife, spouse,"
+  },
+  {
+    "kanji": "暴",
+    "onyomi": "ボウ バク",
+    "kunyomi": "あば・く あば・れる",
+    "meaning": "outburst, rave, fret, force, violence, cruelty, outrage"
+  },
+  {
+    "kanji": "占",
+    "onyomi": "セン",
+    "kunyomi": "し・める うらな・う",
+    "meaning": "fortune telling, divining, forecasting, occupy, hold, have, get, take"
+  },
+  {
+    "kanji": "背",
+    "onyomi": "ハイ",
+    "kunyomi": "せ せい そむ・く",
+    "meaning": "stature, height, back, behind, disobey, defy, go back on, rebel"
+  },
+  {
+    "kanji": "険",
+    "onyomi": "ケン",
+    "kunyomi": "けわ・しい",
+    "meaning": "inaccessible place, impregnable, position, steep place, sharp eyes"
+  },
+  {
+    "kanji": "頼",
+    "onyomi": "ライ",
+    "kunyomi": "なの・む",
+    "meaning": "trust, request"
+  },
+  {
+    "kanji": "均",
+    "onyomi": "キン",
+    "kunyomi": "",
+    "meaning": "level, average"
+  },
+  {
+    "kanji": "途",
+    "onyomi": "ト",
+    "kunyomi": "",
+    "meaning": "route, way, road"
+  },
+  {
+    "kanji": "圧",
+    "onyomi": "アツ",
+    "kunyomi": "",
+    "meaning": "pressure, push, overwhelm, oppress, dominate"
+  },
+  {
+    "kanji": "許",
+    "onyomi": "キョ",
+    "kunyomi": "",
+    "meaning": "permit, approve"
+  },
+  {
+    "kanji": "署",
+    "onyomi": "ショ",
+    "kunyomi": "",
+    "meaning": "signature, government office, police station"
+  },
+  {
+    "kanji": "抜",
+    "onyomi": "バツ",
+    "kunyomi": "ぬ・ける ぬ・く ぬ・かす ぬ・かる",
+    "meaning": "slip out, extract, pull out, pilfer, quote, remove, omit"
+  },
+  {
+    "kanji": "伸",
+    "onyomi": "シン",
+    "kunyomi": "の・ばす の・べる の・びる",
+    "meaning": "expand, stretch, extend, lenghten, increase"
+  },
+  {
+    "kanji": "留",
+    "onyomi": "リュウ ル",
+    "kunyomi": "と・める と・まる",
+    "meaning": "detain, fasten, halt, stop"
+  },
+  {
+    "kanji": "罪",
+    "onyomi": "ザイ",
+    "kunyomi": "つみ",
+    "meaning": "guilt, sin, crime, fault, blame, offense"
+  },
+  {
+    "kanji": "爆",
+    "onyomi": "バク",
+    "kunyomi": "",
+    "meaning": "bomb, burst open, split"
+  },
+  {
+    "kanji": "延",
+    "onyomi": "エン",
+    "kunyomi": "の・びる の・べる の・ばす",
+    "meaning": "prolong, stretching"
+  },
+  {
+    "kanji": "精",
+    "onyomi": "セイ ショウ",
+    "kunyomi": "",
+    "meaning": "spirit, ghost, fairy, energy, vitality, refined, excellence, purity, skill"
+  },
+  {
+    "kanji": "則",
+    "onyomi": "ソク",
+    "kunyomi": "",
+    "meaning": "rule, follow, based on, model after"
+  },
+  {
+    "kanji": "乱",
+    "onyomi": "ラン",
+    "kunyomi": "みだ・れる みだ・す",
+    "meaning": "riot, war, disorder, disturb"
+  },
+  {
+    "kanji": "普",
+    "onyomi": "フ",
+    "kunyomi": "",
+    "meaning": "universal, generally"
+  },
+  {
+    "kanji": "豊",
+    "onyomi": "ホウ",
+    "kunyomi": "ゆた・か",
+    "meaning": "bountiful, exxcellent, rich"
+  },
+  {
+    "kanji": "善",
+    "onyomi": "ゼン",
+    "kunyomi": "よ・い",
+    "meaning": "virtous, good, goodness"
+  },
+  {
+    "kanji": "婚",
+    "onyomi": "コン",
+    "kunyomi": "",
+    "meaning": "marriage"
+  },
+  {
+    "kanji": "厚",
+    "onyomi": "コウ",
+    "kunyomi": "あつ・い",
+    "meaning": "thick, heavy, rich, kind, cordial, brazen, shameless"
+  },
+  {
+    "kanji": "測",
+    "onyomi": "ソク",
+    "kunyomi": "はか・る",
+    "meaning": "fathom, plan, scheme, measure"
+  },
+  {
+    "kanji": "齢",
+    "onyomi": "レイ",
+    "kunyomi": "",
+    "meaning": "age"
+  },
+  {
+    "kanji": "略",
+    "onyomi": "リャク",
+    "kunyomi": "",
+    "meaning": "abbreviation, omission, outline, shorten, capture, plunder"
+  },
+  {
+    "kanji": "承",
+    "onyomi": "ショウ",
+    "kunyomi": "うけたまわ・る",
+    "meaning": "be informed, hear, listen to, receive"
+  },
+  {
+    "kanji": "浮",
+    "onyomi": "フ",
+    "kunyomi": "う・く う・かれる う・かぶ う・かべる",
+    "meaning": "float, rise to surface"
+  },
+  {
+    "kanji": "絶",
+    "onyomi": "ゼツ",
+    "kunyomi": "た・える た・やす た・つ",
+    "meaning": "discontinue, beyond, server, cu off, abstain, iterrupt, suppress"
+  },
+  {
+    "kanji": "押",
+    "onyomi": "オウ",
+    "kunyomi": "お・す お・さえる",
+    "meaning": "push, stop, check, subdue, attach, seize, weight, shove, press, seal, do inspite of"
+  },
+  {
+    "kanji": "倒",
+    "onyomi": "トウ",
+    "kunyomi": "たお・れる たお・す",
+    "meaning": "collapse, overthrow, fall, drop, break, down"
+  },
+  {
+    "kanji": "了",
+    "onyomi": "リョウ",
+    "kunyomi": "",
+    "meaning": "complete, finish"
+  },
+  {
+    "kanji": "庁",
+    "onyomi": "チョウ",
+    "kunyomi": "",
+    "meaning": "government office"
+  },
+  {
+    "kanji": "城",
+    "onyomi": "ジョウ",
+    "kunyomi": "しろ",
+    "meaning": "castle"
+  },
+  {
+    "kanji": "層",
+    "onyomi": "ソウ",
+    "kunyomi": "",
+    "meaning": "layer, stratum, social class, story, floor",
+    "": ","
+  },
+  {
+    "kanji": "版",
+    "onyomi": "ハン",
+    "kunyomi": "",
+    "meaning": "printing block, printing plate, edition, impression, label",
+    "": ","
+  },
+  {
+    "kanji": "絡",
+    "onyomi": "ラク",
+    "kunyomi": "から・む から・まる から・める",
+    "meaning": "entwine, coil around, get caught in",
+    "": ","
+  },
+  {
+    "kanji": "損",
+    "onyomi": "ソン",
+    "kunyomi": "そこ・なう そこ・ねる",
+    "meaning": "damage, loss, disadvantage, hurt, injure"
+  },
+  {
+    "kanji": "募",
+    "onyomi": "ボ",
+    "kunyomi": "つの・る",
+    "meaning": "recruit, campaign, enlist, grow, violent"
+  },
+  {
+    "kanji": "裏",
+    "onyomi": "リ",
+    "kunyomi": "うら",
+    "meaning": "back, admist, in reverse, inside, palm, sole, rear, lining, wrongs side"
+  },
+  {
+    "kanji": "払",
+    "onyomi": "フツ",
+    "kunyomi": "はら・う",
+    "meaning": "pay, clear out, prune, banish, dispose of"
+  },
+  {
+    "kanji": "仏",
+    "onyomi": "ブツ",
+    "kunyomi": "ほとけ",
+    "meaning": "buddha, the dead, france"
+  },
+  {
+    "kanji": "績",
+    "onyomi": "セキ",
+    "kunyomi": "",
+    "meaning": "exploits, achievements, unreeling, cocoons"
+  },
+  {
+    "kanji": "築",
+    "onyomi": "チク",
+    "kunyomi": "きず・く",
+    "meaning": "fabricate, build, construct"
+  },
+  {
+    "kanji": "志",
+    "onyomi": "シ",
+    "kunyomi": "こころざ・す こころざし",
+    "meaning": "intention, plan, resolve, aspire, motive, hopes, shilling"
+  },
+  {
+    "kanji": "混",
+    "onyomi": "コン",
+    "kunyomi": "ま・じる まざ・る ま・ぜる こ・む",
+    "meaning": "mix, blend, confuse"
+  },
+  {
+    "kanji": "昇",
+    "onyomi": "ショウ",
+    "kunyomi": "のぼ・る",
+    "meaning": "rise up"
+  },
+  {
+    "kanji": "勤",
+    "onyomi": "キン ゴン",
+    "kunyomi": "つと・める つと・まる",
+    "meaning": "serve, dilligence, become employed"
+  },
+  {
+    "kanji": "遅",
+    "onyomi": "チ",
+    "kunyomi": "おく・れる おく・らす お・そい",
+    "meaning": "slow, late, back, later"
+  },
+  {
+    "kanji": "居",
+    "onyomi": "キョ",
+    "kunyomi": "い・る",
+    "meaning": "reside, to be, exist, live with"
+  },
+  {
+    "kanji": "雑",
+    "onyomi": "ザツ ゾウ",
+    "kunyomi": "",
+    "meaning": "miscellaneous"
+  },
+  {
+    "kanji": "招",
+    "onyomi": "ショウ",
+    "kunyomi": "まね・く",
+    "meaning": "beckon, invite, summon, engage"
+  },
+  {
+    "kanji": "困",
+    "onyomi": "コン",
+    "kunyomi": "こま・る",
+    "meaning": "become distressed, quandary, annoyed"
+  },
+  {
+    "kanji": "永",
+    "onyomi": "エイ",
+    "kunyomi": "なが・い",
+    "meaning": "eternity, long, lenghty"
+  },
+  {
+    "kanji": "著",
+    "onyomi": "チョ",
+    "kunyomi": "あらわ・す いちじる・しい",
+    "meaning": "renowned, publish, write, phenomenal, put on, wear, arrival, counter for suits of clothing"
+  },
+  {
+    "kanji": "誌",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "meaning": "document, record"
+  },
+  {
+    "kanji": "刊",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "meaning": "publish, carve, engrave"
+  },
+  {
+    "kanji": "像",
+    "onyomi": "ゾウ",
+    "kunyomi": "",
+    "meaning": "statue, picture, image, figure, portrait"
+  },
+  {
+    "kanji": "香",
+    "onyomi": "コウ キョウ",
+    "kunyomi": "か かお・り かお・る",
+    "meaning": "smell, incense, perfume"
+  },
+  {
+    "kanji": "更",
+    "onyomi": "コウ",
+    "kunyomi": "さら ふ・ける ふ・かす",
+    "meaning": "grow late, night watch, sit up late, of course, renew, renovate, again, more and more, further"
+  },
+  {
+    "kanji": "刻",
+    "onyomi": "コク",
+    "kunyomi": "きざ・む",
+    "meaning": "engrave, cut fine, chop, hash, mince, time, carving"
+  },
+  {
+    "kanji": "賛",
+    "onyomi": "サン",
+    "kunyomi": "",
+    "meaning": "approve, praise, title or inscription on picture, assist, agree with"
+  },
+  {
+    "kanji": "抱",
+    "onyomi": "ホウ",
+    "kunyomi": "だ・く いだ・く かか・える",
+    "meaning": "embrace, hug, hold in arms"
+  },
+  {
+    "kanji": "犯",
+    "onyomi": "ハン",
+    "kunyomi": "おか・す",
+    "meaning": "crime, sin, offense"
+  },
+  {
+    "kanji": "布",
+    "onyomi": "フ",
+    "kunyomi": "ぬの",
+    "meaning": "linen, cloth, spread, distribute"
+  },
+  {
+    "kanji": "恐",
+    "onyomi": "キョウ",
+    "kunyomi": "おそ・れる おそ・ろしい",
+    "meaning": "fear, dread, awe"
+  },
+  {
+    "kanji": "宇",
+    "onyomi": "ウ",
+    "kunyomi": "",
+    "meaning": "eaves, roof, house, heaven"
+  },
+  {
+    "kanji": "戻",
+    "onyomi": "レイ",
+    "kunyomi": "もど・る もど・す",
+    "meaning": "turn back, return, revert, resume, restore, go backwards"
+  },
+  {
+    "kanji": "巨",
+    "onyomi": "キョ",
+    "kunyomi": "",
+    "meaning": "gigantic, big, large, great"
+  },
+  {
+    "kanji": "震",
+    "onyomi": "シン",
+    "kunyomi": "ふる・う ふる・える",
+    "meaning": "quake, shake, tremble, quiver, shiver"
+  },
+  {
+    "kanji": "越",
+    "onyomi": "エツ",
+    "kunyomi": "こ・す こ・える",
+    "meaning": "surpass, crossover, move to , exceed, vietnam"
+  },
+  {
+    "kanji": "欲",
+    "onyomi": "ヨク",
+    "kunyomi": "ほ・っする ほ・しい",
+    "meaning": "longing, covetousness, greed, passion, desire, craving"
+  },
+  {
+    "kanji": "痛",
+    "onyomi": "ツウ",
+    "kunyomi": "いた・い いた・む いた・める",
+    "meaning": "pain, hirt, damage, bruise"
+  },
+  {
+    "kanji": "触",
+    "onyomi": "ショク",
+    "kunyomi": "ふ・れる さ・わる",
+    "meaning": "touch, contact, feel, proclaim, announce, conflict"
+  },
+  {
+    "kanji": "依",
+    "onyomi": "イ エ",
+    "kunyomi": "",
+    "meaning": "reliant, depend on, consequently, therefore, due to"
+  },
+  {
+    "kanji": "汚",
+    "onyomi": "オ",
+    "kunyomi": "けが・す けが・る けが・らわしい よご・す よご・れる きたな・い",
+    "meaning": "dirty, pollute, disgrace, rape, defile"
+  },
+  {
+    "kanji": "枚",
+    "onyomi": "マイ",
+    "kunyomi": "",
+    "meaning": "sheet of something, counter for flat things"
+  },
+  {
+    "kanji": "互",
+    "onyomi": "ゴ",
+    "kunyomi": "たが・い",
+    "meaning": "mutually, reciprocally, together"
+  },
+  {
+    "kanji": "複",
+    "onyomi": "フク",
+    "kunyomi": "",
+    "meaning": "duplicate, double, compound, multiple"
+  },
+  {
+    "kanji": "郵",
+    "onyomi": "ユウ",
+    "kunyomi": "",
+    "meaning": "mail, stagecoach stop"
+  },
+  {
+    "kanji": "似",
+    "onyomi": "ジ",
+    "kunyomi": "に・る",
+    "meaning": "becoming, resemble, counterfeit, imitate, suitable"
+  },
+  {
+    "kanji": "恵",
+    "onyomi": "ケイ エ",
+    "kunyomi": "めぐ・む めぐ・まれる",
+    "meaning": "favor, blessing, grace, kindness"
+  },
+  {
+    "kanji": "探",
+    "onyomi": "タン",
+    "kunyomi": "さぐ・る さが・す",
+    "meaning": "grope, search, look for"
+  },
+  {
+    "kanji": "逃",
+    "onyomi": "トウ",
+    "kunyomi": "に・げる に・がす のが・す のが・れる",
+    "meaning": "escape, flee, shirk, evade, set free"
+  },
+  {
+    "kanji": "骨",
+    "onyomi": "コツ",
+    "kunyomi": "ほね",
+    "meaning": "bone, skeleton, remains, frame,"
+  },
+  {
+    "kanji": "傾",
+    "onyomi": "ケイ",
+    "kunyomi": "かたむ・く かたむ・ける",
+    "meaning": "lean, incline, tilt, trend, wane, sink, ruin, bias"
+  },
+  {
+    "kanji": "届",
+    "onyomi": "",
+    "kunyomi": "とど・ける とど・く",
+    "meaning": "deliver, reach, arrive, report, notify, forward"
+  },
+  {
+    "kanji": "迷",
+    "onyomi": "メイ",
+    "kunyomi": "まよ・う",
+    "meaning": "astray, be perplexed, in doubt, lost, illusion"
+  },
+  {
+    "kanji": "夢",
+    "onyomi": "ム",
+    "kunyomi": "ゆめ",
+    "meaning": "dream, vision, illusion"
+  },
+  {
+    "kanji": "巻",
+    "onyomi": "カン",
+    "kunyomi": "ま・く まき",
+    "meaning": "scroll, volume, book, part, rollup, wind up, tie, coil, counter for text"
+  },
+  {
+    "kanji": "燃",
+    "onyomi": "ネン",
+    "kunyomi": "も・える も・やす も・す",
+    "meaning": "burn, blaze, glow"
+  },
+  {
+    "kanji": "閉",
+    "onyomi": "ヘイ",
+    "kunyomi": "と・じる と・ざす し・める し・まる",
+    "meaning": "closed, shut"
+  },
+  {
+    "kanji": "緒",
+    "onyomi": "ショ チョ",
+    "kunyomi": "お",
+    "meaning": "inception, beginning, end, cord, strap, mental or emotional state"
+  },
+  {
+    "kanji": "駐",
+    "onyomi": "チュウ",
+    "kunyomi": "",
+    "meaning": "reside in ,resident, stop over"
+  },
+  {
+    "kanji": "賃",
+    "onyomi": "チン",
+    "kunyomi": "",
+    "meaning": "fare, fee, hire, rent, wage, charges"
+  },
+  {
+    "kanji": "紹",
+    "onyomi": "ショウ",
+    "kunyomi": "",
+    "meaning": "introduce, inherit, help"
+  },
+  {
+    "kanji": "雇",
+    "onyomi": "コ",
+    "kunyomi": "やと・う",
+    "meaning": "employ, hire"
+  },
+  {
+    "kanji": "暮",
+    "onyomi": "ボ",
+    "kunyomi": "く・らす く・れる",
+    "meaning": "livelihood, make living, spend time, evening, twilight"
+  },
+  {
+    "kanji": "替",
+    "onyomi": "タイ",
+    "kunyomi": "か・える か・わる",
+    "meaning": "exchange, spare, substitute"
+  },
+  {
+    "kanji": "預",
+    "onyomi": "ヨ",
+    "kunyomi": "あず・かる あず・ける",
+    "meaning": "deposit, custody, leave with, entrust to"
+  },
+  {
+    "kanji": "簡",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "meaning": "simplicity, brevity"
+  },
+  {
+    "kanji": "臓",
+    "onyomi": "ゾウ",
+    "kunyomi": "",
+    "meaning": "entrails, viscera, bowels"
+  },
+  {
+    "kanji": "律",
+    "onyomi": "リツ リチ",
+    "kunyomi": "",
+    "meaning": "rythym, law, regulation, gauge, control"
+  },
+  {
+    "kanji": "贈",
+    "onyomi": "ゾウ ソウ",
+    "kunyomi": "おく・る",
+    "meaning": "presents, send, give to, award to, confer to, presenting something"
+  },
+  {
+    "kanji": "宙",
+    "onyomi": "チュウ",
+    "kunyomi": "",
+    "meaning": "mid-air, air, space, sky, memorization, interval of mine"
+  },
+  {
+    "kanji": "薄",
+    "onyomi": "ハク",
+    "kunyomi": "うす・い うす・める うす・まる うす・らぐ うす・れる",
+    "meaning": "dilute, thin, weak"
+  },
+  {
+    "kanji": "群",
+    "onyomi": "グン",
+    "kunyomi": "む・れる む・れ むら",
+    "meaning": "flock, group, crowd, herd, swarm, cluster"
+  },
+  {
+    "kanji": "操",
+    "onyomi": "ソウ",
+    "kunyomi": "みさお あやつ・る",
+    "meaning": "maneuver, manipulate, operate, steer, chastity, virginity, fidelity"
+  },
+  {
+    "kanji": "奥",
+    "onyomi": "オウ",
+    "kunyomi": "おく",
+    "meaning": "interior, heart"
+  },
+  {
+    "kanji": "詰",
+    "onyomi": "キツ",
+    "kunyomi": "つ・める つ・まる つ・む",
+    "meaning": "packed, close, pressed, reprove, rebuke, blame"
+  },
+  {
+    "kanji": "双",
+    "onyomi": "ソウ",
+    "kunyomi": "ふた",
+    "meaning": "pair, set, comparison, counter for pairs"
+  },
+  {
+    "kanji": "刺",
+    "onyomi": "シ",
+    "kunyomi": "さ・す さ・さる",
+    "meaning": "pierce, stab, prick, sting, calling card"
+  },
+  {
+    "kanji": "到",
+    "onyomi": "トウ",
+    "kunyomi": "",
+    "meaning": "arrival, proceed, reach, attain, result in"
+  },
+  {
+    "kanji": "寝",
+    "onyomi": "シン",
+    "kunyomi": "ね・る ね・かす",
+    "meaning": "lie down, sleep, rest, bed, remain unsold"
+  },
+  {
+    "kanji": "壁",
+    "onyomi": "ヘキ",
+    "kunyomi": "かべ",
+    "meaning": "wall, lining, fence"
+  },
+  {
+    "kanji": "仮",
+    "onyomi": "カ ケ",
+    "kunyomi": "かり",
+    "meaning": "temporary, interim, informal"
+  },
+  {
+    "kanji": "純",
+    "onyomi": "ジュン",
+    "kunyomi": "",
+    "meaning": "genuine, purity, innocence"
+  },
+  {
+    "kanji": "盗",
+    "onyomi": "トウ",
+    "kunyomi": "ぬす・む",
+    "meaning": "steal, rob, pilfer"
+  },
+  {
+    "kanji": "吸",
+    "onyomi": "キュウ",
+    "kunyomi": "す・う",
+    "meaning": "inhale, suck, imbibe, sip"
+  },
+  {
+    "kanji": "看",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "meaning": "watch over, see"
+  },
+  {
+    "kanji": "翌",
+    "onyomi": "ヨク",
+    "kunyomi": "",
+    "meaning": "the following, next"
+  },
+  {
+    "kanji": "快",
+    "onyomi": "カイ",
+    "kunyomi": "こころよ・い",
+    "meaning": "cheerful, pleasant, aggreeable, comfortable"
+  },
+  {
+    "kanji": "片",
+    "onyomi": "ヘン",
+    "kunyomi": "かた",
+    "meaning": "one sided, leaf, sheet"
+  },
+  {
+    "kanji": "敬",
+    "onyomi": "ケイ",
+    "kunyomi": "うやま・う",
+    "meaning": "respect, awe, honor, revere"
+  },
+  {
+    "kanji": "悩",
+    "onyomi": "ノウ",
+    "kunyomi": "なや・む なや・ます",
+    "meaning": "trouble, worry, in pain, distress, illness"
+  },
+  {
+    "kanji": "泉",
+    "onyomi": "セン",
+    "kunyomi": "いずみ",
+    "meaning": "fountain, spring"
+  },
+  {
+    "kanji": "御",
+    "onyomi": "ギョ ゴ",
+    "kunyomi": "おん",
+    "meaning": "honorable, manipulate, govern"
+  },
+  {
+    "kanji": "荒",
+    "onyomi": "コウ",
+    "kunyomi": "あら・い あ・れる あ・らす",
+    "meaning": "rough, rude, wild"
+  },
+  {
+    "kanji": "硬",
+    "onyomi": "コウ",
+    "kunyomi": "かた・い",
+    "meaning": "stiff, hard"
+  },
+  {
+    "kanji": "埋",
+    "onyomi": "マイ",
+    "kunyomi": "う・める う・まる う・もれる",
+    "meaning": "bury, be filled up, embedded"
+  },
+  {
+    "kanji": "袋",
+    "onyomi": "タイ",
+    "kunyomi": "ふくろ",
+    "meaning": "sack, bag, pouch"
+  },
+  {
+    "kanji": "忘",
+    "onyomi": "ボウ",
+    "kunyomi": "わす・れる",
+    "meaning": "forget"
+  },
+  {
+    "kanji": "吹",
+    "onyomi": "スイ",
+    "kunyomi": "ふ・く",
+    "meaning": "blow, breathe, puff, emit, stroke"
+  },
+  {
+    "kanji": "宝",
+    "onyomi": "ホウ",
+    "kunyomi": "たから",
+    "meaning": "treasure, wealth, valuables"
+  },
+  {
+    "kanji": "封",
+    "onyomi": "フウ ホウ",
+    "kunyomi": "",
+    "meaning": "seal, closing"
+  },
+  {
+    "kanji": "胸",
+    "onyomi": "キョウ",
+    "kunyomi": "むね むな",
+    "meaning": "chest, bosom, breast, heart, feelings"
+  },
+  {
+    "kanji": "娘",
+    "onyomi": "",
+    "kunyomi": "むすめ",
+    "meaning": "daughter, girl"
+  },
+  {
+    "kanji": "砂",
+    "onyomi": "サ シャ",
+    "kunyomi": "すな",
+    "meaning": "sand"
+  },
+  {
+    "kanji": "誤",
+    "onyomi": "ゴ",
+    "kunyomi": "あやま・る",
+    "meaning": "mistake, err, do wrong, mislead"
+  },
+  {
+    "kanji": "賢",
+    "onyomi": "ケン",
+    "kunyomi": "かしこ・い",
+    "meaning": "intelligent, wise, wisdom, cleverness"
+  },
+  {
+    "kanji": "腕",
+    "onyomi": "ワン",
+    "kunyomi": "うで",
+    "meaning": "arm, ability, talent"
+  },
+  {
+    "kanji": "較",
+    "onyomi": "カク",
+    "kunyomi": "",
+    "meaning": "contrast, compare"
+  },
+  {
+    "kanji": "床",
+    "onyomi": "ショウ",
+    "kunyomi": "とこ ゆか",
+    "meaning": "bed, counter for beds, floor, padding, tatami"
+  },
+  {
+    "kanji": "慣",
+    "onyomi": "カン",
+    "kunyomi": "な・れる な・らす",
+    "meaning": "accustomed, get used to, become experienced"
+  },
+  {
+    "kanji": "尊",
+    "onyomi": "ソン",
+    "kunyomi": "たっと・い とうと・い たっと・ぶ とうと・ぶ",
+    "meaning": "revered, valuable, precious, noble, exalted"
+  },
+  {
+    "kanji": "窓",
+    "onyomi": "ソウ",
+    "kunyomi": "まど",
+    "meaning": "window, pane"
+  },
+  {
+    "kanji": "柔",
+    "onyomi": "ジュウ ニュウ",
+    "kunyomi": "やわ・らかい",
+    "meaning": "tender, weakness, gentleness, softness"
+  },
+  {
+    "kanji": "殿",
+    "onyomi": "デン テン",
+    "kunyomi": "との どの",
+    "meaning": "mansion, palace, temple, lord"
+  },
+  {
+    "kanji": "濃",
+    "onyomi": "ノウ",
+    "kunyomi": "こ・い",
+    "meaning": "concentrated, thick, dark, undiluted"
+  },
+  {
+    "kanji": "液",
+    "onyomi": "エキ",
+    "kunyomi": "",
+    "meaning": "fluid, juice, liquid, sap, secretion"
+  },
+  {
+    "kanji": "貧",
+    "onyomi": "ヒン ビン",
+    "kunyomi": "まず・しい",
+    "meaning": "poor, poverty"
+  },
+  {
+    "kanji": "肩",
+    "onyomi": "ケン",
+    "kunyomi": "かた",
+    "meaning": "shoulder"
+  },
+  {
+    "kanji": "零",
+    "onyomi": "レイ",
+    "kunyomi": "こぼ・れる こぼ・す",
+    "meaning": "zero, spill, overflow, nothing, cipher"
+  },
+  {
+    "kanji": "怒",
+    "onyomi": "ド",
+    "kunyomi": "おか・る おこ・る",
+    "meaning": "angry, be offended"
+  },
+  {
+    "kanji": "祖",
+    "onyomi": "ソ",
+    "kunyomi": "",
+    "meaning": "ancestor, pioneer, founder"
+  },
+  {
+    "kanji": "幼",
+    "onyomi": "ヨウ",
+    "kunyomi": "おさな・い",
+    "meaning": "infancy, childhood"
+  },
+  {
+    "kanji": "泊",
+    "onyomi": "ハク",
+    "kunyomi": "と・まる と・める",
+    "meaning": "overnight stay, put up at, ride at anchor"
+  },
+  {
+    "kanji": "杯",
+    "onyomi": "ハイ",
+    "kunyomi": "さかずき",
+    "meaning": "counter for cupfuls, wine glass, glass, toast"
+  },
+  {
+    "kanji": "甘",
+    "onyomi": "カン",
+    "kunyomi": "あま・い あま・える あま・やかす",
+    "meaning": "sweet, coax, pamper, be content, sugary"
+  },
+  {
+    "kanji": "掃",
+    "onyomi": "ソウ",
+    "kunyomi": "は・く",
+    "meaning": "sweep, brush"
+  },
+  {
+    "kanji": "掘る",
+    "onyomi": "クツ",
+    "kunyomi": "ほ・る",
+    "meaning": "dig, excavate, delve"
+  },
+  {
+    "kanji": "疲",
+    "onyomi": "ヒ",
+    "kunyomi": "つか・れる",
+    "meaning": "exhausted, tire, weary"
+  },
+  {
+    "kanji": "捨",
+    "onyomi": "シャ",
+    "kunyomi": "す・てる",
+    "meaning": "throw away, discard, abandon, resign, reject, sacrifice"
+  },
+  {
+    "kanji": "皆",
+    "onyomi": "カイ",
+    "kunyomi": "みな みんな",
+    "meaning": "all, everything"
+  },
+  {
+    "kanji": "軟",
+    "onyomi": "ナン",
+    "kunyomi": "やわ・らかい",
+    "meaning": "soft"
+  },
+  {
+    "kanji": "沈",
+    "onyomi": "チン",
+    "kunyomi": "しず・む しず・める",
+    "meaning": "sink, be submerged, subside, be depressed, aloes"
+  },
+  {
+    "kanji": "凍",
+    "onyomi": "トウ",
+    "kunyomi": "こお・る こご・える",
+    "meaning": "frozen, congeal, refrigerate"
+  },
+  {
+    "kanji": "腹",
+    "onyomi": "フク",
+    "kunyomi": "はら",
+    "meaning": "abdomen, belly, stomach"
+  },
+  {
+    "kanji": "乳",
+    "onyomi": "ニュウ",
+    "kunyomi": "ちち ち",
+    "meaning": "milk, breast"
+  },
+  {
+    "kanji": "煙",
+    "onyomi": "エン",
+    "kunyomi": "けむ・る けむり けむ・い",
+    "meaning": "smoke"
+  },
+  {
+    "kanji": "恋",
+    "onyomi": "レン",
+    "kunyomi": "こ・う こい こい・しい",
+    "meaning": "romance, in love, yearn for, miss, darling"
+  },
+  {
+    "kanji": "紅",
+    "onyomi": "コウ ク",
+    "kunyomi": "べに くれない",
+    "meaning": "deep red, crimson"
+  },
+  {
+    "kanji": "郊",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "meaning": "outskirts, suburbs, rural area"
+  },
+  {
+    "kanji": "腰",
+    "onyomi": "ヨウ",
+    "kunyomi": "こし",
+    "meaning": "hips, waist, loins"
+  },
+  {
+    "kanji": "踊",
+    "onyomi": "ヨウ",
+    "kunyomi": "おど・る",
+    "meaning": "jump, dance, leap, skip"
+  },
+  {
+    "kanji": "冊",
+    "onyomi": "サツ サク",
+    "kunyomi": "",
+    "meaning": "counter for book, tome, volume"
+  },
+  {
+    "kanji": "眠",
+    "onyomi": "ミン",
+    "kunyomi": "ねむ・る ねむ・い",
+    "meaning": "sleepy, die, sleep"
+  },
+  {
+    "kanji": "怖",
+    "onyomi": "フ",
+    "kunyomi": "こわ・い",
+    "meaning": "fearful, be frightened, dreadful"
+  },
+  {
+    "kanji": "珍",
+    "onyomi": "チン",
+    "kunyomi": "めずら・しい",
+    "meaning": "rare, curious, strange"
+  },
+  {
+    "kanji": "卵",
+    "onyomi": "ラン",
+    "kunyomi": "たまご",
+    "meaning": "egg, ovum, sprawn, roe"
+  },
+  {
+    "kanji": "狭",
+    "onyomi": "キョウ",
+    "kunyomi": "せま・い せば・める せば・まる",
+    "meaning": "cramped, narrow, contract, tight"
+  },
+  {
+    "kanji": "喫",
+    "onyomi": "キツ",
+    "kunyomi": "",
+    "meaning": "consume, eat, drink, smoke"
+  },
+  {
+    "kanji": "干",
+    "onyomi": "カン",
+    "kunyomi": "ほ・す ほ・る",
+    "meaning": "air out, parch, dry, recede, interfere, intercede"
+  },
+  {
+    "kanji": "頂",
+    "onyomi": "チョウ",
+    "kunyomi": "いただ・く いただき",
+    "meaning": "place on the head, receive, top of head, top, summit, peak"
+  },
+  {
+    "kanji": "溶",
+    "onyomi": "ヨウ",
+    "kunyomi": "と・ける と・かす と・く",
+    "meaning": "melt, disolve, thaw"
+  },
+  {
+    "kanji": "暖",
+    "onyomi": "ダン",
+    "kunyomi": "あたた・かい あたた・める あたた・まる",
+    "meaning": "warmth"
+  },
+  {
+    "kanji": "鉱",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "meaning": "mineral, ore"
+  },
+  {
+    "kanji": "涙",
+    "onyomi": "ルイ",
+    "kunyomi": "なみだ",
+    "meaning": "tears, sympathy"
+  },
+  {
+    "kanji": "匹",
+    "onyomi": "ヒツ",
+    "kunyomi": "ひき",
+    "meaning": "equal, head, counter for small animals, roll of cloth"
+  },
+  {
+    "kanji": "鋭",
+    "onyomi": "エイ",
+    "kunyomi": "するど・い",
+    "meaning": "sharp, pointed, edge, weapon, violent"
+  },
+  {
+    "kanji": "枝",
+    "onyomi": "シ",
+    "kunyomi": "えだ",
+    "meaning": "branch, twig, limb, counter for branches"
+  },
+  {
+    "kanji": "塗",
+    "onyomi": "ト",
+    "kunyomi": "ぬ・る",
+    "meaning": "paint, plaster, daub, smear, coating"
+  },
+  {
+    "kanji": "軒",
+    "onyomi": "ケン",
+    "kunyomi": "のき",
+    "meaning": "counter for houses"
+  },
+  {
+    "kanji": "晩",
+    "onyomi": "バン",
+    "kunyomi": "",
+    "meaning": "nightfall, night"
+  },
+  {
+    "kanji": "叫",
+    "onyomi": "キョウ",
+    "kunyomi": "さけ・ぶ",
+    "meaning": "shout, exclaim, yell"
+  },
+  {
+    "kanji": "拝",
+    "onyomi": "ハイ",
+    "kunyomi": "おが・む",
+    "meaning": "worship, adore, pray to"
+  },
+  {
+    "kanji": "乾",
+    "onyomi": "カン",
+    "kunyomi": "かわ・く かわ・かす",
+    "meaning": "dry, drought, drink up, heaven, emperor"
+  },
+  {
+    "kanji": "棒",
+    "onyomi": "ボウ",
+    "kunyomi": "",
+    "meaning": "rod, stick, cane, pole, line"
+  },
+  {
+    "kanji": "祈",
+    "onyomi": "キ",
+    "kunyomi": "いの・る",
+    "meaning": "pray, wish"
+  },
+  {
+    "kanji": "髪",
+    "onyomi": "ハツ",
+    "kunyomi": "かみ",
+    "meaning": "hair of the head"
+  },
+  {
+    "kanji": "忙",
+    "onyomi": "ボウ",
+    "kunyomi": "いそが・しい",
+    "meaning": "busy, occupied, restless"
+  },
+  {
+    "kanji": "綿",
+    "onyomi": "メン",
+    "kunyomi": "わた",
+    "meaning": "cotton"
+  },
+  {
+    "kanji": "汗",
+    "onyomi": "カン",
+    "kunyomi": "あせ",
+    "meaning": "sweat, perspire"
+  },
+  {
+    "kanji": "銅",
+    "onyomi": "ドウ",
+    "kunyomi": "",
+    "meaning": "copper,"
+  },
+  {
+    "kanji": "湿",
+    "onyomi": "シツ",
+    "kunyomi": "しめ・る しめ・す",
+    "meaning": "wet, damp, moist"
+  },
+  {
+    "kanji": "咲",
+    "onyomi": "",
+    "kunyomi": "さ・く",
+    "meaning": "blossom, bloom"
+  },
+  {
+    "kanji": "召",
+    "onyomi": "ショウ",
+    "kunyomi": "め・す",
+    "meaning": "seduce, call, send for, wear, put on, ride in, buy, eat, drink, catch(cold)"
+  },
+  {
+    "kanji": "脂",
+    "onyomi": "シ",
+    "kunyomi": "あぶら",
+    "meaning": "fat, grease, tallow, lard, rosin, gum, tar"
+  },
+  {
+    "kanji": "蒸",
+    "onyomi": "ジョウ",
+    "kunyomi": "む・す む・れる む・らす",
+    "meaning": "steam, heat, sultry, forment, get musty"
+  },
+  {
+    "kanji": "肌",
+    "onyomi": "",
+    "kunyomi": "はだ",
+    "meaning": "skin, texture, body, grain"
+  },
+  {
+    "kanji": "靴",
+    "onyomi": "カ",
+    "kunyomi": "くつ",
+    "meaning": "shoes"
+  },
+  {
+    "kanji": "耕",
+    "onyomi": "コウ",
+    "kunyomi": "たがや・す",
+    "meaning": "plow, till, cultivate"
+  },
+  {
+    "kanji": "鈍",
+    "onyomi": "ドン",
+    "kunyomi": "にぶ・い にぶ・る",
+    "meaning": "dull, slow, foolish, blunt"
+  },
+  {
+    "kanji": "恥",
+    "onyomi": "チ",
+    "kunyomi": "は・じる はじ は・じらう は・ずかしい",
+    "meaning": "shame, dishonor"
+  },
+  {
+    "kanji": "泥",
+    "onyomi": "デイ",
+    "kunyomi": "どろ",
+    "meaning": "mud, mire, adhere to, to attached to"
+  },
+  {
+    "kanji": "隅",
+    "onyomi": "グウ",
+    "kunyomi": "すみ",
+    "meaning": "corner, nook"
+  },
+  {
+    "kanji": "偶",
+    "onyomi": "グウ",
+    "kunyomi": "",
+    "meaning": "accidentallty, even number, couple, same kind"
+  },
+  {
+    "kanji": "辛",
+    "onyomi": "シン",
+    "kunyomi": "から・い つら・い",
+    "meaning": "spicy, bitter, hot"
+  },
+  {
+    "kanji": "磨",
+    "onyomi": "マ",
+    "kunyomi": "みが・く",
+    "meaning": "grind, polish, scour, improve, brush (teeth)"
+  },
+  {
+    "kanji": "姓",
+    "onyomi": "セイ ショウ",
+    "kunyomi": "",
+    "meaning": "surname"
+  },
+  {
+    "kanji": "筒",
+    "onyomi": "トウ",
+    "kunyomi": "つつ",
+    "meaning": "cilinder, pipe, tube, gun barrel, sleeve"
+  },
+  {
+    "kanji": "粒",
+    "onyomi": "リュウ",
+    "kunyomi": "つぶ",
+    "meaning": "grains, drop, counter for tiny particles"
+  },
+  {
+    "kanji": "詞",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "meaning": "poetry, part of speech, words"
+  },
+  {
+    "kanji": "偉",
+    "onyomi": "イ",
+    "kunyomi": "えら・い",
+    "meaning": "admirable, greatness, remarkable, conceited, famous, excellent"
+  },
+  {
+    "kanji": "畳",
+    "onyomi": "ジョウ",
+    "kunyomi": "たた・む たたみ",
+    "meaning": "tatami mat, counter for tatami mats, fold, shut up, do away with"
+  },
+  {
+    "kanji": "机",
+    "onyomi": "キ",
+    "kunyomi": "つくえ",
+    "meaning": "desk, table"
+  },
+  {
+    "kanji": "膚",
+    "onyomi": "フ",
+    "kunyomi": "",
+    "meaning": "skin, body;surface, grain, texture, disposition"
+  },
+  {
+    "kanji": "濯",
+    "onyomi": "タク",
+    "kunyomi": "",
+    "meaning": "laundry, wash, pour on, rinse"
+  },
+  {
+    "kanji": "猫",
+    "onyomi": "ビョウ",
+    "kunyomi": "ねこ",
+    "meaning": "cat"
+  },
+  {
+    "kanji": "塔",
+    "onyomi": "トウ",
+    "kunyomi": "",
+    "meaning": "pagoda, tower, steeple"
+  },
+  {
+    "kanji": "沸",
+    "onyomi": "フツ",
+    "kunyomi": "わ・く わ・かす",
+    "meaning": "seethe, boil, ferment, uproar, breed"
+  },
+  {
+    "kanji": "灰",
+    "onyomi": "カイ",
+    "kunyomi": "はい",
+    "meaning": "ashes, puckery juice, cremate"
+  },
+  {
+    "kanji": "菓",
+    "onyomi": "カ",
+    "kunyomi": "",
+    "meaning": "candy, cakes, fruit"
+  },
+  {
+    "kanji": "帽",
+    "onyomi": "ボウ",
+    "kunyomi": "",
+    "meaning": "hat"
+  },
+  {
+    "kanji": "枯",
+    "onyomi": "コ",
+    "kunyomi": "か・れる か・らす",
+    "meaning": "wither, die, dry up, be seasoned"
+  },
+  {
+    "kanji": "涼",
+    "onyomi": "リョウ",
+    "kunyomi": "すず・しい すず・む",
+    "meaning": "refreshing, nice and cool"
+  },
+  {
+    "kanji": "舟",
+    "onyomi": "シュウ",
+    "kunyomi": "ふね ふな",
+    "meaning": "boat, ship"
+  },
+  {
+    "kanji": "符",
+    "onyomi": "フ",
+    "kunyomi": "",
+    "meaning": "token, sign, mark, tally, charm"
+  },
+  {
+    "kanji": "憎",
+    "onyomi": "ゾウ",
+    "kunyomi": "にく・む にく・い にく・らしい にく・しみ",
+    "meaning": "hate, detest"
+  },
+  {
+    "kanji": "肯",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "meaning": "agreement, consent, comply with"
+  },
+  {
+    "kanji": "燥",
+    "onyomi": "ソウ",
+    "kunyomi": "",
+    "meaning": "dry up, parch"
+  },
+  {
+    "kanji": "畜",
+    "onyomi": "チク",
+    "kunyomi": "",
+    "meaning": "livestock, domestic animals"
+  },
+  {
+    "kanji": "坊",
+    "onyomi": "ボウ ボッ",
+    "kunyomi": "",
+    "meaning": "boy, priest's residence, priest"
+  },
+  {
+    "kanji": "挟",
+    "onyomi": "キョウ",
+    "kunyomi": "はさ・む はさ。まる",
+    "meaning": "pinch, between"
+  },
+  {
+    "kanji": "雲",
+    "onyomi": "ドン",
+    "kunyomi": "くも・る",
+    "meaning": "cloudy weather, cloud up"
+  },
+  {
+    "kanji": "滴",
+    "onyomi": "テキ",
+    "kunyomi": "しずく したた・る",
+    "meaning": "drip, drop"
+  },
+  {
+    "kanji": "伺",
+    "onyomi": "シ",
+    "kunyomi": "うかが・う",
+    "meaning": "pay respects, visit, ask, inquire, question, implore"
+  }
+]
