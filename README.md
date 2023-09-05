@@ -6,9 +6,10 @@
     <img src="https://img.shields.io/npm/v/jlpt.svg" alt="NPM package" />
   </a>
 </div>
+
 ### About
 
-JLPT vocabulary from N5 to N1
+A simple NPM library that can return the vocabulary words using to practice for the JLPT (Japanese-Language Proficiency Test) from N5 to N1.
 
 ### Usage
 
