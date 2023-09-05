@@ -4,6 +4,9 @@
   <!-- Npm Version -->
   <a href="https://www.npmjs.com/package/jlpt">
     <img src="https://img.shields.io/npm/v/jlpt.svg" alt="NPM package" />
+  </a> 
+  <a href="https://www.npmjs.com/package/jlpt">
+    <img src="https://img.shields.io/npm/dy/jlpt" alt="JLPT downloads" />
   </a>
 </div>
 
