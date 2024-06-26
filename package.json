@@ -1,6 +1,6 @@
 {
   "name": "jlpt",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Japanese Language Proficiency Test(JLPT) kanji from N5 to N1",
   "main": "./src/index.js",
   "scripts": {
