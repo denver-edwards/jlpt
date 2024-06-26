@@ -6,13 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": "japan,japanese,jlpt,kanji",
-  "author": {
-    "name": "Unsignia"
-  },
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com/Unsignia/jlpt"
-  }
+  "keywords": [
+    "japan",
+    "japanese",
+    "jlpt",
+    "kanji"
+  ],
+  "license": "MIT"
 }
